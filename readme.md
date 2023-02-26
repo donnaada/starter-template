@@ -12,4 +12,4 @@ Simple HTML 5 starter project. Contains the following items
   * imgs
   * docs
 
-Feel free to fork this repo to user for your projects :)
+Feel free to fork this repo to use for your projects :)
