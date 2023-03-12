@@ -1,19 +1,24 @@
 # Starter Template
 
-Simple HTML 5 starter project. Contains the following items
+Simple HTML 5 Template
+
+Tree Structure of the Template is as follows
 
 ```sh
+Project Directory
 ├── .eslintrc.json
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-├── css/
-│   ├── reset.css
-│   └── style.css
-├── img/
-├── index.html
-└── js/
-    └── app.js
+├── assets
+│   ├── css
+│   │   ├── reset.css
+│   │   └── style.css
+│   ├── img
+│   └── js
+│       └── main.js
+└── index.html
+
 ```
 
 Feel free to fork this repo to use for your projects :)
